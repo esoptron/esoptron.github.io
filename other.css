@@ -1,0 +1,22 @@
+#content {
+	background-color: WhiteSmoke;
+}
+
+#content-text {
+	text-align: center;
+	font-size: 10px;
+}
+
+footer {
+	position: absolute;
+  	bottom: 10px;
+    width: 99%;
+}
+
+#wrapper {
+    text-align: center;
+}
+
+#wrapper iframe {
+  	display: inline-block;
+}

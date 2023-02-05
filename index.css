@@ -5,6 +5,7 @@
 	margin: 1% 1%;
   	grid-template-columns: 5% 5% 5%;
 	grid-auto-rows: auto;
+    text-align: center;
  	background-color: WhiteSmoke;
   	padding: 10px;
 	grid-gap: 0;
@@ -17,6 +18,7 @@
  	/*border: 1px solid rgba(0, 0, 0, 0.8);*/
   	padding: 20px;
 	align-items: center;
+    text-align: center;
 	height: 40%;
  	width: 40%;
 }
@@ -27,6 +29,8 @@
     margin-right: auto;
  	max-width: 50px;
     height: auto;
+    width: auto;
+    align-items: center;
 }
 
 .text-logo {
